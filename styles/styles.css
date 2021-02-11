@@ -1,0 +1,35 @@
+#header {
+    position: relative;
+    width:80%;
+    height: 10%;
+    margin:0;
+    padding:0;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+}
+#container {
+    overflow: hidden;
+    position: relative;
+    width:80%;
+    height: 80%;
+    margin:0;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+    overflow:hidden;
+}
+#footer {
+    position: relative;
+    width:80%;
+    height: 10%;
+    margin:0;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
